@@ -64,7 +64,7 @@ Movements can be:
 Movements can be performed for:
 - Low reps (sets of approximately 1-5): Typically done with maximal-strength movements like the deadlift. 
 - Medium reps (sets of approximately 6-11): Can be done for most movements
-- High reps (sets of approximately 12+): Typically done with isolation movements or compound movements for the purpose of targeting the cardiovascular system. 
+- High reps (sets of approximately 12+): Typically done with isolation movements for bodybuilding purposes. Can also be done with compound movements for the purpose of targeting the cardiovascular system (high-rep deadlifts will have you breathing quite heavily). 
 
 Movements can be done with the following equipment: 
 - Bodyweight
