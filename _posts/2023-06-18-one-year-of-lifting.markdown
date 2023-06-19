@@ -5,9 +5,12 @@ date:   2023-06-18
 image1: /assets/images/dl.png
 image2: /assets/images/chart.jpg
 ---
+
+*After lifting for a year, this is what I've learned. (Sounds like clickbait, doesn't it?)*
+
 # **Introduction:**
 {:refdef: style="text-align: center;"}
-![rpe 8 lift from yours truly](/assets/images/dl.png)
+![rpe 8 lift from yours truly]({{ page.image1 | relative_url }}){:width="50%"}
 {: refdef}
 
 New lifters are relentlessly bombarded with the “right” and “wrong” ways to exercise:
@@ -44,7 +47,7 @@ The best motivation is intrinsic. You should exercise because you want to benefi
 Behold this flowchart that I made on my whiteboard in five minutes (but how long did it take to format on this goddamn site?):  
 
 {:refdef: style="text-align: center;"}
-![Flowchart of exercise types](/assets/images/chart.jpg)
+![whiteboard flowchart]({{ page.image2 | relative_url }}){:width="50%"}
 {: refdef}
 
 Exercise can be thought of as aerobic or anaerobic depending on the energy system your body uses to perform the exercise. Exercises performed for longer durations of time with less bursts of power (think long-distance, long-time) rely on the aerobic system and primarily stress the cardiovascular system (heart + lungs). Exercises performed for shorter durations of time with maximal bursts of energy (think high-powered sprints or lifts for short amounts of time) rely on the anaerobic system and primarily stress muscles and the neurological system. 
