@@ -75,11 +75,11 @@ Movements can be done with the following equipment:
 Your pectoral muscles cannot tell the different between 500 W of power applied via pushup, bench press, dumbbell press, or machine press. Just try them out and see what you like. This debate on the method of exercise is infuriating ("omg!!! if you do calisthenics your physique is better because it is natural" <- nerd). 
 
 Also, here are some common exercise splits. Consider how many days and how much time you have. Make the schedule work for you; don't work to adjust to the schedule. 
-- Push(Chest)/Pull(Chest)/Legs
+- Push(Chest)/Pull(Back)/Legs
 - Upper/Lower
 - Full-body
 
-For a time-pressed lifter like I am during school years, I suggest focusing on five key compound movements in no particular order: 
+For a time-pressed lifter like I am during the school year, I suggest focusing on five key compound movements in no particular order: 
 
 - Deadlift (Hip flexion + knee flexion)
 	- Targets upper, mid, and lower back, hams, glutes, abs, hip flexors, and forearms
@@ -122,6 +122,6 @@ Find intrinsic motivation to lift.
 
 Use your brain when you exercise. 
 
-Don't get lost trying to recreate Plato's Ideal Form of a deadlift hinge pattern. 
+Don't get lost trying to recreate Plato's Ideal Form of a deadlift hinge pattern. Perfect form is overrated and does not exist!
 
 Eat enough and sleep more. 
