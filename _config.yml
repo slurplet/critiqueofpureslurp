@@ -20,10 +20,9 @@
 
 title: Critique of Pure Slurp
 email: yousufshah.khan@mail.utoronto.ca
-description: Polymathing ain't easy. 
+description: :)
 baseurl: "/critiqueofpureslurp" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: slurplet
 github_username:  slurplet
 
 # Build settings
