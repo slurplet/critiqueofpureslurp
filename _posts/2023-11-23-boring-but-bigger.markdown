@@ -81,8 +81,11 @@ Arms – 3 x 10 curls + 3 x 10 rope pushdowns
 | 1 x 5+ @85% | 1 x 3 @85% | 1 x 1+ @95% |
 
 Notes:
+
 -Percentages are according to a set Training Max, which is not the same as the 1RM.
+
 -The + indicates an AMRAP set, where you do as many reps as possible. I tried very hard on these sets.
+
 -I did not rest for too long doing these sets, and I would usually finish the 3 sets + 5 x 10 sets in 20-25 minutes total. 
 
 # *1RM Warmup Scheme*
