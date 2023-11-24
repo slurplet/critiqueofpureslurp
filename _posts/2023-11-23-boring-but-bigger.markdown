@@ -78,7 +78,7 @@ Arms – 3 x 10 curls + 3 x 10 rope pushdowns
 |:--------|:-------|:--------|
 | 1 x 5  @65% | 1 x 3 @70% | 1 x 5  @75% |
 | 1 x 5  @75% | 1 x 3 @80% | 1 x 3+ @90% |
-| 1 x 5+ @85% | 1 x 3 @85% | 1 x 1+ @95% |
+| 1 x 5+ @85% | 1 x 3+ @85% | 1 x 1+ @95% |
 
 Notes:
 
@@ -151,7 +151,7 @@ you may find my amateur training methodologies and reflections interesting. I tr
 I will continue to explore this idea of balance and doing what you want to do for fun. I think that is my goal. 
 
 # *Overhead Press*
-I have always enjoyed lifting heavy things over my head, and I still don’t quite understand why the bench has overtaken the overhead press or even the pull-up as the textbook measure of upper-body strength^^. 
+I have always enjoyed lifting heavy things over my head, and I still don’t quite understand why the bench has overtaken the overhead press or even the pull-up as the textbook measure of upper-body strength^. 
 Due to the fact that I work out in the basement, I have to stand on my knees and pick the bar up to the starting position. Doing this with a heavy barbell isn’t that straightforward especially 
 if you don’t train the movement: In my 145lb PR, getting the bar to the start position was actually much harder than pressing it. 
 
@@ -159,7 +159,7 @@ I think my OHP could easily be pushed further. In my PR, I comfortably pressed t
 (yeah I counted I took a video) before slowly lowering it and going for a second attempt which I couldn’t complete and had to let fall onto my poor clavicles. 
 I think I could push the OHP past the sticking point if I got in push press practice. Or even if I wasn’t pre-fatigued from the energy-leaking start. 
 
-^^Gymbros that exclusively wear tank tops and pajama pants, bench press, curl, do lateral raises, and joke about skipping leg day are laughing at me right now. 
+^Gymbros that exclusively wear tank tops and pajama pants, bench press, curl, do lateral raises, and joke about skipping leg day are laughing at me right now. 
 
 # *Deadlift*
 
